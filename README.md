@@ -12,9 +12,7 @@ Top news headlines based on the country code using NewsAPI
 
 All API requests are handled only on the backend. API keys are stored securely in environment variables.
 
-How to Install Dependencies
 
- git clone https://github.com/Akehdo/web2-assigments/tree/master/assigment2
 
 Open terminal in the project folder
 
